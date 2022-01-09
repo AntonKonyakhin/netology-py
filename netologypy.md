@@ -96,7 +96,6 @@ anton@Yupiter:~/scripts$ ./z3.py ~/netology/sysadm-homeworks
 import socket
 import time
 resources=("drive.google.com", "mail.google.com", "google.com")
-dict={}
 #заполняем эталон с чем будем сравнивать
 ip_prev=list()
 for res in resources:
